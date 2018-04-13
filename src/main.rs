@@ -1,3 +1,6 @@
+//Author: Vincent Truchseß <redtux@posteo.net>
+//License: GPLv3
+//Date: 13.04.2018
 
 use std::io::Read;
 //use std::fmt;
