@@ -1,0 +1,6 @@
+[package]
+name = "bfck"
+version = "0.1.0"
+authors = ["Vincent Truchseß <redtux@posteo.net>"]
+
+[dependencies]
